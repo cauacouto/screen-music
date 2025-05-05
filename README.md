@@ -1,4 +1,6 @@
 Screnn Music
+![Java](https://img.shields.io/badge/Java-21-orange)  ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.4-brightgreen)
 --
 Descrição
 
